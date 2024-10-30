@@ -1,4 +1,4 @@
-<!-- header.html -->
+<!--====== Start Header ======-->
 <header class="header-area header-three">
     <!--====== Header Top Bar ======-->
     <div class="header-top-bar pt-30 pb-30">
@@ -87,18 +87,18 @@
                     <nav class="main-menu">
                         <ul>
                             <li class="menu-item has-children"><a href="#">Home</a>
-                                <ul class="sub-menu">
+                                <!-- <ul class="sub-menu">
                                     <li><a href="index.html">Home 01</a></li>
                                     <li><a href="index-2.html">Home 02</a></li>
                                     <li><a href="index-3.html">Home 03</a></li>
                                     <li><a href="index-4.html">Home 04</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="menu-item has-children"><a href="#">Tours</a>
-                                <ul class="sub-menu">
+                                <!-- <ul class="sub-menu">
                                     <li><a href="tour.html">Tours</a></li>
                                     <li><a href="tour-details.html">Tours Details</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="menu-item has-children"><a href="#">Destination</a>
                                 <ul class="sub-menu">
@@ -106,13 +106,15 @@
                                     <li><a href="destination-details.html">Destination Details</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item has-children"><a href="#">Blog</a>
-                                <ul class="sub-menu">
+                            <li class="menu-item has-children"><a href="gallery">Our Gallery</a>
+                                <!-- <ul class="sub-menu">
                                     <li><a href="blog-list.html">Blog List</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
-                            <li class="menu-item has-children"><a href="#">Pages</a>
+                            <li class="menu-item has-children"><a href="about">About Us</a></li>
+                            <li class="menu-item has-children"><a href="contact">Contact</a></li>
+                            <!-- <li class="menu-item has-children"><a href="#">Pages</a>
                                 <ul class="sub-menu">
                                     <li><a href="about.html">About Us</a></li>
                                     <li><a href="gallery.html">Our Gallery</a></li>
@@ -121,7 +123,7 @@
                                     <li><a href="product-details.html">Product Details</a></li>
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                             <li class="menu-item search-item">
                                 <div class="search-btn" data-bs-toggle="modal" data-bs-target="#search-modal"><i class="far fa-search"></i></div>
                             </li>
