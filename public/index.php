@@ -63,13 +63,13 @@
                     <div class="primary-menu">
                         <!--====== Site Branding ======-->
                         <div class="site-branding">
-                            <a href="index.html" class="brand-logo"><img src="assets/images/logo/logo-white.png" alt="Site Logo"></a>
+                            <a href="index" class="brand-logo"><img src="assets/images/logo/logo-white.png" alt="Site Logo"></a>
                         </div>
                         <!--====== Nav Menu ======-->
                         <div class="nav-menu">
                             <!--====== Site Branding ======-->
                             <div class="mobile-logo mb-30 d-block d-xl-none">
-                                <a href="index.html" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Site Logo"></a>
+                                <a href="index" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Site Logo"></a>
                             </div>
                             <!--=== Nav Search ===-->
                             <div class="nav-search mb-30 d-block d-xl-none ">
@@ -126,13 +126,13 @@
                             </nav>
                             <!--====== Menu Button ======-->
                             <div class="menu-button mt-40 d-xl-none">
-                                <a href="contact.html" class="main-btn secondary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
+                                <a href="contact" class="main-btn secondary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
                             </div>
                         </div>
                         <!--====== Nav Right Item ======-->
                         <div class="nav-right-item">
                             <div class="menu-button d-xl-block d-none">
-                                <a href="contact.html" class="main-btn primary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
+                                <a href="contact" class="main-btn primary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
                             </div>
                             <div class="navbar-toggler">
                                 <span></span>
@@ -165,7 +165,7 @@
                                                 velit. Consectetur nulla convallis
                                                 viverra quisque eleifend</p>
                                             <div class="hero-button" data-animation="fadeInRight" data-delay=".6s"> 
-                                                <a href="about.html" class="main-btn primary-btn">Explore More<i class="fas fa-paper-plane"></i></a>
+                                                <a href="about" class="main-btn primary-btn">Explore More<i class="fas fa-paper-plane"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -194,7 +194,7 @@
                                                 velit. Consectetur nulla convallis
                                                 viverra quisque eleifend</p>
                                             <div class="hero-button" data-animation="fadeInRight" data-delay=".6s"> 
-                                                <a href="about.html" class="main-btn primary-btn">Explore More<i class="fas fa-paper-plane"></i></a>
+                                                <a href="about" class="main-btn primary-btn">Explore More<i class="fas fa-paper-plane"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -973,7 +973,7 @@
                                 </div>
                                 <h3 class="title"><a href="blog-details.html">Meet Skeleton Svelte Taile Was
                                     Sind For Reactive UIs</a></h3>
-                                <a href="blog-details.html" class="main-btn filled-btn">Read More<i class="far fa-paper-plane"></i></a>
+                                <a href="blog-details" class="main-btn filled-btn">Read More<i class="far fa-paper-plane"></i></a>
                             </div>
                         </div>
                     </div>
@@ -990,7 +990,7 @@
                                 </div>
                                 <h3 class="title"><a href="blog-details.html">Web Vitals Tools Boost Your to
                                     Sen Performance Scores</a></h3>
-                                <a href="blog-details.html" class="main-btn filled-btn">Read More<i class="far fa-paper-plane"></i></a>
+                                <a href="blog-details" class="main-btn filled-btn">Read More<i class="far fa-paper-plane"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1007,7 +1007,7 @@
                                 </div>
                                 <h3 class="title"><a href="blog-details.html">Smashing Podcast Episode See
                                     With Paul Billion-Dollar Idea</a></h3>
-                                <a href="blog-details.html" class="main-btn filled-btn">Read More<i class="far fa-paper-plane"></i></a>
+                                <a href="blog-details" class="main-btn filled-btn">Read More<i class="far fa-paper-plane"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1064,8 +1064,8 @@
                         </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
-                    <div class="single-gallery-item">
-                        <div class="gallery-img">
+                    <div class="single-gallery-">
+                        <div class="gallery-imgitem">
                             <img src="assets/images/gallery/gl-3.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
                                 <a href="assets/images/gallery/gl-3.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>

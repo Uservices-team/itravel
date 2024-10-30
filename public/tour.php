@@ -54,161 +54,7 @@
                 </div>
             </div>
         </div><!--====== Search From ======-->
-        <!--====== Start Header ======-->
-        <header class="header-area header-three">
-            <!--====== Header Top Bar ======-->
-            <div class="header-top-bar pt-30 pb-30">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-xl-3 d-none d-xl-block">
-                            <!--====== Site Branding ======-->
-                            <div class="site-brading">
-                                <a href="index-3.html" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Logo"></a>
-                            </div>
-                        </div>
-                        <div class="col-xl-9 col-lg-12">
-                            <!--====== Information Wrapper ======-->
-                            <div class="information-wrapper">
-                                <div class="row">
-                                    <div class="col-lg-4">
-                                        <div class="single-info-item-two">
-                                            <div class="inner-info">
-                                                <div class="icon">
-                                                    <i class="far fa-map-marker-alt"></i>
-                                                </div>
-                                                <div class="info">
-                                                    <span class="title">Office Address</span>
-                                                    <h5>583 Main Street, USA</h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="single-info-item-two">
-                                            <div class="inner-info">
-                                                <div class="icon">
-                                                    <i class="far fa-envelope"></i>
-                                                </div>
-                                                <div class="info">
-                                                    <span class="title">Email Address</span>
-                                                    <h5><a href="mailto:support@gmail.com">support@gmail.com</a></h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="single-info-item-two">
-                                            <div class="inner-info">
-                                                <div class="icon">
-                                                    <i class="far fa-phone-plus"></i>
-                                                </div>
-                                                <div class="info">
-                                                    <span class="title">Drop a Line</span>
-                                                    <h5><a href="tel:+000(123)45688">+000 (123) 456 88</a></h5>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--====== Header Navigation ======-->
-            <div class="header-navigation">
-                <div class="nav-overlay"></div>
-                <div class="container-fluid">
-                    <div class="primary-menu gray-bg">
-                        <!--====== Site Branding ======-->
-                        <div class="site-brading d-block d-xl-none">
-                            <a href="index-3.html" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Logo"></a>
-                        </div>
-                        <!--====== Nav Menu ======-->
-                        <div class="nav-menu">
-                            <!--====== Site Branding ======-->
-                            <div class="mobile-logo mb-30 d-block d-xl-none">
-                                <a href="index.html" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Site Logo"></a>
-                            </div>
-                            <!--=== Nav Search ===-->
-                            <div class="nav-search mb-30 d-block d-xl-none ">
-                                <form>
-                                    <div class="form_group">
-                                        <input type="email" class="form_control" placeholder="Search Here" name="email" required="">
-                                        <button class="search-btn"><i class="fas fa-search"></i></button>
-                                    </div>
-                                </form>
-                            </div>
-                            <!--====== Main Menu ======-->
-                            <nav class="main-menu">
-                                <ul>
-                                    <li class="menu-item has-children"><a href="#">Home</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index-2.html">Home 02</a></li>
-                                            <li><a href="index-3.html">Home 03</a></li>
-                                            <li><a href="index-4.html">Home 04</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item has-children"><a href="#">Tours</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="tour.html">Tours</a></li>
-                                            <li><a href="tour-details.html">Tours Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item has-children"><a href="#">Destination</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="destination.html">Destination</a></li>
-                                            <li><a href="destination-details.html">Destination Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item has-children"><a href="#">Blog</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog-list.html">Blog List</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item has-children"><a href="#">Pages</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="gallery.html">Our Gallery</a></li>
-                                            <li><a href="events.html">Our Events</a></li>
-                                            <li><a href="shop.html">Our Shop</a></li>
-                                            <li><a href="product-details.html">Product Details</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item search-item">
-                                        <div class="search-btn" data-bs-toggle="modal" data-bs-target="#search-modal"><i class="far fa-search"></i></div>
-                                    </li>
-                                </ul>
-                            </nav>
-                            <!--====== Menu Button ======-->
-                            <div class="menu-button mt-40 d-xl-none">
-                                <a href="contact.html" class="main-btn secondary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
-                            </div>
-                        </div>
-                        <!--====== Nav Right Item ======-->
-                        <div class="nav-right-item">
-                            <div class="lang-dropdown">
-                                <select class="wide">
-                                    <option value="English">English</option>
-                                    <option value="French">French</option>
-                                </select>
-                            </div>
-                            <div class="menu-button d-xl-block d-none">
-                                <a href="contact.html" class="main-btn primary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
-                            </div>
-                            <div class="navbar-toggler">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header><!--====== End Header ======-->
+        <?php include("includes/header.php"); ?>        
         <!--====== Start Breadcrumb Section ======-->
         <section class="page-banner overlay pt-170 pb-220 bg_cover" style="background-image: url(assets/images/bg/page-bg.jpg);">
             <div class="container">
@@ -217,7 +63,7 @@
                         <div class="page-banner-content text-center text-white">
                             <h1 class="page-title">Explore Tour Place</h1>
                             <ul class="breadcrumb-link text-white">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index">Home</a></li>
                                 <li class="active">Explore Tour Place</li>
                             </ul>
                         </div>
@@ -268,11 +114,11 @@
         <section class="places-section pb-100">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
+                    <div class="col-xl-6 col-md-6 col-sm-12 places-column">
                         <!--=== Single Place Item ===-->
                         <div class="single-place-item mb-60 wow fadeInUp">
                             <div class="place-img">
-                                <img src="assets/images/place/place-1.jpg" alt="Place Image">
+                                <img src="assets/images/place/IMG_2139.jpg" alt="Place Image">
                             </div>
                             <div class="place-content">
                                 <div class="info">
@@ -284,8 +130,8 @@
                                         <li><i class="fas fa-star"></i></li>
                                         <li><a href="#">(4.9)</a></li>
                                     </ul>
-                                    <h4 class="title"><a href="tour-details.html">Sitting on Boat Spreading Her Arms</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>North Province, Maldives</p>
+                                    <h4 class="title"><a href="tour-details.html">Travel to Hanthana</a></h4>
+                                    <p class="location"><i class="far fa-map-marker-alt"></i>Hanthana, Sri Lanka</p>
                                     <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
                                     <div class="meta">
                                         <span><i class="far fa-clock"></i>05 Days</span>
@@ -296,11 +142,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
+                    <div class="col-xl-6 col-md-6 col-sm-12 places-column">
                         <!--=== Single Place Item ===-->
                         <div class="single-place-item mb-60 wow fadeInUp">
                             <div class="place-img">
-                                <img src="assets/images/place/place-2.jpg" alt="Place Image">
+                                <img src="assets/images/place/IMG_2138.jpg" alt="Place Image">
                             </div>
                             <div class="place-content">
                                 <div class="info">
@@ -312,205 +158,8 @@
                                         <li><i class="fas fa-star"></i></li>
                                         <li><a href="#">(4.9)</a></li>
                                     </ul>
-                                    <h4 class="title"><a href="tour-details.html">White Canopy Tent Near
-                                        Coastline</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>North Province, Maldives</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-3.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Sitting on Boat Spreading Her Arms</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Tambon Khlong Sok, Thailand</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-4.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Sitting on Boat Spreading Her Arms</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Arefu, AG, Romania</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-5.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Cottages In The Middle Of Beach</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Vaitāpē, French Polynesia</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-6.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Beautiful Floating Villa on River</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Gaafu Dhaalu Atoll, Maldives</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-7.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Man and Woman Walks on Dock</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Maldives</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-8.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Trees Under White Clouds during Daytime</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Vaitāpē, French Polynesia</p>
-                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
-                                    <div class="meta">
-                                        <span><i class="far fa-clock"></i>05 Days</span>
-                                        <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
-                        <!--=== Single Place Item ===-->
-                        <div class="single-place-item mb-60 wow fadeInUp">
-                            <div class="place-img">
-                                <img src="assets/images/place/place-9.jpg" alt="Place Image">
-                            </div>
-                            <div class="place-content">
-                                <div class="info">
-                                    <ul class="ratings">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><a href="#">(4.9)</a></li>
-                                    </ul>
-                                    <h4 class="title"><a href="tour-details.html">Body of Water Near Mountain</a></h4>
-                                    <p class="location"><i class="far fa-map-marker-alt"></i>Bali, Indonesia</p>
+                                    <h4 class="title"><a href="tour-details.html">Travel to Kitulgala</a></h4>
+                                    <p class="location"><i class="far fa-map-marker-alt"></i>Kitulgala, Sri Lanka</p>
                                     <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
                                     <div class="meta">
                                         <span><i class="far fa-clock"></i>05 Days</span>
@@ -599,115 +248,7 @@
             </div>
         </section><!--====== End Gallery Section ======-->
         <!--====== Start Footer ======-->
-        <footer class="main-footer black-bg pt-230">
-            <div class="container">
-                <!--=== Footer CTA ===-->
-                <div class="footer-cta pb-40">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <!--=== Single CTA Item ===-->
-                            <div class="single-cta-item pr-lg-60 mb-40 wow fadeInLeft">
-                                <div class="icon">
-                                    <img src="assets/images/icon/support.png" alt="Icon">
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">Need Any Support For
-                                        Tour & Travels ?</h3>
-                                    <a href="#" class="icon-btn"><i class="far fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <!--=== Single CTA Item ===-->
-                            <div class="single-cta-item pl-lg-60 mb-40 wow fadeInRight">
-                                <div class="icon">
-                                    <img src="assets/images/icon/travel.png" alt="Icon">
-                                </div>
-                                <div class="content">
-                                    <h3 class="title">Ready to Get Started With Vacations!</h3>
-                                    <a href="#" class="icon-btn"><i class="far fa-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--=== Footer Widget ===-->
-                <div class="footer-widget-area pt-75 pb-30">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6">
-                            <!--=== Footer Widget ===-->
-                            <div class="footer-widget about-company-widget mb-40 wow fadeInUp">
-                                <h4 class="widget-title">About</h4>
-                                <div class="footer-content">
-                                    <p>To take trivial example which us 
-                                        ever undertakes laborious physica
-                                        exercise except obsome</p>
-                                    <a href="#" class="footer-logo"><img src="assets/images/logo/logo-white.png" alt="Site Logo"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-5 col-md-6">
-                            <!--=== Footer Widget ===-->
-                            <div class="footer-widget service-nav-widget mb-40 pl-lg-70 wow fadeInDown">
-                                <h4 class="widget-title">Services</h4>
-                                <div class="footer-content">
-                                    <ul class="footer-widget-nav">
-                                        <li><a href="#">Caravan Soler Tent</a></li>
-                                        <li><a href="#">Family Tent Camping</a></li>
-                                        <li><a href="#">Classic Tent Camping</a></li>
-                                        <li><a href="#">Wild Tent Camping</a></li>
-                                        <li><a href="#">Small Cabin Wood</a></li>
-                                    </ul>
-                                    <ul class="footer-widget-nav">
-                                        <li><a href="#">Need a Career ?</a></li>
-                                        <li><a href="#">Latest News & Blog</a></li>
-                                        <li><a href="#">Core Features</a></li>
-                                        <li><a href="#">Meet Our teams</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <!--=== Footer Widget ===-->
-                            <div class="footer-widget footer-newsletter-widget mb-40 pl-lg-100 wow fadeInUp">
-                                <h4 class="widget-title">Newsletter</h4>
-                                <div class="footer-content">
-                                    <p>Which of us ever undertake laborious
-                                        physical exercise except obtain</p>
-                                    <form>
-                                        <div class="form_group">
-                                            <label><i class="far fa-paper-plane"></i></label>
-                                            <input type="email" class="form_control" placeholder="Email Address" name="email" required="">
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--=== Footer Copyright ===-->
-                <div class="footer-copyright">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <!--=== Footer Text ===-->
-                            <div class="footer-text">
-                                <p>Copy@2023 <span style="color: #F7921E;">GoWilds</span>, All Right Reserved</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <!--=== Footer Nav ===-->
-                            <div class="footer-nav float-lg-end">
-                                <ul>
-                                    <li><a href="#">Setting & privacy</a></li>
-                                    <li><a href="#">Faqs</a></li>
-                                    <li><a href="#">Support</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer><!--====== End Footer ======-->
+        <?php include("includes/footer.php"); ?>
         <!--====== Back To Top  ======-->
         <a href="#" class="back-to-top"><i class="far fa-angle-up"></i></a>
         <!--====== Jquery js ======-->
