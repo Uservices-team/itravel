@@ -10,7 +10,7 @@
                         <a href="index-3.html" class="brand-logo"><img width="100px" src="assets/images/logo/itravel-logo" alt="Logo"></a>
                     </div>
                 </div>
-                <div class="col-xl-9 col-lg-12">
+                <div class="col-xl-9 col-lg-5">
                     <!--====== Information Wrapper ======-->
                     <div class="information-wrapper">
                         <div class="row">
@@ -22,12 +22,12 @@
                                         </div>
                                         <div class="info">
                                             <span class="title">Office Address</span>
-                                            <h5>583 Main Street, USA</h5>
+                                            <h5>No.143/3, Jayawardana Mawatha , kadawatha.</h5>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-3">
                                 <div class="single-info-item-two">
                                     <div class="inner-info">
                                         <div class="icon">
@@ -35,7 +35,7 @@
                                         </div>
                                         <div class="info">
                                             <span class="title">Email Address</span>
-                                            <h5><a href="mailto:support@gmail.com">support@gmail.com</a></h5>
+                                            <h5><a href="mailto:info@thei.lk">info@thei.lk</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -48,7 +48,7 @@
                                         </div>
                                         <div class="info">
                                             <span class="title">Drop a Line</span>
-                                            <h5><a href="tel:+000(123)45688">+000 (123) 456 88</a></h5>
+                                            <h5><a href="tel:+94112902682">+94 (11) 290 2682</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -66,13 +66,13 @@
             <div class="primary-menu gray-bg">
                 <!--====== Site Branding ======-->
                 <div class="site-brading d-block d-xl-none">
-                    <a href="index-3.html" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Logo"></a>
+                    <a href="index-3.html" class="brand-logo"><img width="100px" src="assets/images/logo/itravel-logo" alt="Logo"></a>
                 </div>
                 <!--====== Nav Menu ======-->
                 <div class="nav-menu">
                     <!--====== Site Branding ======-->
                     <div class="mobile-logo mb-30 d-block d-xl-none">
-                        <a href="index.html" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Site Logo"></a>
+                        <a href="index.html" class="brand-logo"><img width="100px" src="assets/images/logo/itravel-logo" alt="Site Logo"></a>
                     </div>
                     <!--=== Nav Search ===-->
                     <div class="nav-search mb-30 d-block d-xl-none ">

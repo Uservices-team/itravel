@@ -612,7 +612,7 @@ body {
   padding-left: 70px;
   padding-right: 70px;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+@media only screen and (min-width: 1200px) and (max-width: 1300px) {
   .container-fluid {
     padding-left: 15px;
     padding-right: 15px;
