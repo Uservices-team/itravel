@@ -86,7 +86,7 @@
                     <!--====== Main Menu ======-->
                     <nav class="main-menu">
                         <ul>
-                            <li class="menu-item has-children"><a href="#">Home</a>
+                            <li class="menu-item has-children"><a href="index">Home</a>
                                 <!-- <ul class="sub-menu">
                                     <li><a href="index.html">Home 01</a></li>
                                     <li><a href="index-2.html">Home 02</a></li>
