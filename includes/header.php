@@ -7,7 +7,7 @@
                 <div class="col-xl-3 d-none d-xl-block">
                     <!--====== Site Branding ======-->
                     <div class="site-brading">
-                        <a href="index-3.html" class="brand-logo"><img width="100px" src="assets/images/logo/itravel-logo" alt="Logo"></a>
+                        <a href="index" class="brand-logo"><img width="100px" src="assets/images/logo/itravel-logo" alt="Logo"></a>
                     </div>
                 </div>
                 <div class="col-xl-9 col-lg-5">
@@ -94,7 +94,7 @@
                                     <li><a href="index-4.html">Home 04</a></li>
                                 </ul> -->
                             </li>
-                            <li class="menu-item has-children"><a href="#">Tours</a>
+                            <li class="menu-item has-children"><a href="tour">Tours</a>
                                 <!-- <ul class="sub-menu">
                                     <li><a href="tour.html">Tours</a></li>
                                     <li><a href="tour-details.html">Tours Details</a></li>
