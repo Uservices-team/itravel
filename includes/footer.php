@@ -38,16 +38,14 @@
                             <div class="footer-widget about-company-widget mb-40 wow fadeInUp">
                                 <h4 class="widget-title">About</h4>
                                 <div class="footer-content">
-                                    <p>To take trivial example which us 
-                                        ever undertakes laborious physica
-                                        exercise except obsome</p>
-                                    <a href="#" class="footer-logo"><img src="assets/images/logo/logo-white.png" alt="Site Logo"></a>
+                                    <p>iTravel offers personalized adventures, expert advice, and travel inspiration.</p>
+                                    <a href="#" class="footer-logo"><img width="100px" height="auto" src="assets/images/logo/itravel-logo" alt="Site Logo"></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-5 col-md-6">
+                        <div class="col-lg-3 col-md-6">
                             <!--=== Footer Widget ===-->
-                            <div class="footer-widget service-nav-widget mb-40 pl-lg-70 wow fadeInDown">
+                            <div class="footer-widget service-nav-widget mb-40 pl-lg-60 wow fadeInDown">
                                 <h4 class="widget-title">Services</h4>
                                 <div class="footer-content">
                                     <ul class="footer-widget-nav">
@@ -57,18 +55,12 @@
                                         <li><a href="#">Wild Tent Camping</a></li>
                                         <li><a href="#">Small Cabin Wood</a></li>
                                     </ul>
-                                    <ul class="footer-widget-nav">
-                                        <li><a href="#">Need a Career ?</a></li>
-                                        <li><a href="#">Latest News & Blog</a></li>
-                                        <li><a href="#">Core Features</a></li>
-                                        <li><a href="#">Meet Our teams</a></li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-3 col-md-6">
                             <!--=== Footer Widget ===-->
-                            <div class="footer-widget footer-newsletter-widget mb-40 pl-lg-100 wow fadeInUp">
+                            <div class="footer-widget footer-newsletter-widget mb-40 pl-lg-20 wow fadeInUp">
                                 <h4 class="widget-title">Newsletter</h4>
                                 <div class="footer-content">
                                     <p>Which of us ever undertake laborious
@@ -79,6 +71,26 @@
                                             <input type="email" class="form_control" placeholder="Email Address" name="email" required="">
                                         </div>
                                     </form>
+                                </div>
+                                <br>
+                                <p><span style="color: #f7921e;">Note:</span> We do not publish your email</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <!--=== Footer Widget ===-->
+                            <div class="footer-widget service-nav-widget mb-40 pl-lg-70 wow fadeInDown">
+                                <h4 class="widget-title">About Us</h4>
+                                <div class="footer-content">
+                                    <ul class="footer-widget-nav">
+                                        <li>Call Us 24/7</li>
+                                        <li><a href="tel:+94112902682" style="font-weight: bold;">+94 (11) 290 2682</a></li>
+                                        <hr>
+                                        <li>Work with us</li>
+                                        <li><a href="mailto:info@thei.lk" style="font-weight: bold;">info@thei.lk</a></li>
+                                        <hr>
+                                        <li>Our Location</li>
+                                        <li><a href="https://maps.app.goo.gl/oH1Lj2bNzyhkHH7o7" style="font-weight: bold;">No.143/3, Jayawardana Mawatha , kadawatha.</a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
