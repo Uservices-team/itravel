@@ -38,14 +38,14 @@
                             <div class="footer-widget about-company-widget mb-40 wow fadeInUp">
                                 <h4 class="widget-title">About</h4>
                                 <div class="footer-content">
-                                    <p>iTravel offers personalized adventures, expert advice, and travel inspiration.</p>
+                                <p>iTravel offers personalized adventures, expert advice, and inspiration for unforgettable journeys.</p>
                                     <a href="#" class="footer-logo"><img width="100px" height="auto" src="assets/images/logo/itravel-logo" alt="Site Logo"></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <!--=== Footer Widget ===-->
-                            <div class="footer-widget service-nav-widget mb-40 pl-lg-60 wow fadeInDown">
+                            <div class="footer-widget service-nav-widget mb-40 pl-lg-30 wow fadeInDown">
                                 <h4 class="widget-title">Services</h4>
                                 <div class="footer-content">
                                     <ul class="footer-widget-nav">
@@ -54,6 +54,24 @@
                                         <li><a href="#">Classic Tent Camping</a></li>
                                         <li><a href="#">Wild Tent Camping</a></li>
                                         <li><a href="#">Small Cabin Wood</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <!--=== Footer Widget ===-->
+                            <div class="footer-widget service-nav-widget mb-40 pl-lg-40 wow fadeInDown">
+                                <h4 class="widget-title">About Us</h4>
+                                <div class="footer-content">
+                                    <ul class="footer-widget-nav">
+                                        <li>Call Us 24/7</li>
+                                        <li><a href="tel:+94112902682" style="font-weight: bold;">+94 (11) 290 2682</a></li>
+                                        <hr>
+                                        <li>Work with us</li>
+                                        <li><a href="mailto:info@thei.lk" style="font-weight: bold;">info@thei.lk</a></li>
+                                        <hr>
+                                        <li>Our Location</li>
+                                        <li><a href="https://maps.app.goo.gl/oH1Lj2bNzyhkHH7o7" style="font-weight: bold;">No.143/3, Jayawardana Mawatha , kadawatha.</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -76,24 +94,6 @@
                                 <p><span style="color: #f7921e;">Note:</span> We do not publish your email</p>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6">
-                            <!--=== Footer Widget ===-->
-                            <div class="footer-widget service-nav-widget mb-40 pl-lg-70 wow fadeInDown">
-                                <h4 class="widget-title">About Us</h4>
-                                <div class="footer-content">
-                                    <ul class="footer-widget-nav">
-                                        <li>Call Us 24/7</li>
-                                        <li><a href="tel:+94112902682" style="font-weight: bold;">+94 (11) 290 2682</a></li>
-                                        <hr>
-                                        <li>Work with us</li>
-                                        <li><a href="mailto:info@thei.lk" style="font-weight: bold;">info@thei.lk</a></li>
-                                        <hr>
-                                        <li>Our Location</li>
-                                        <li><a href="https://maps.app.goo.gl/oH1Lj2bNzyhkHH7o7" style="font-weight: bold;">No.143/3, Jayawardana Mawatha , kadawatha.</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <!--=== Footer Copyright ===-->
@@ -102,7 +102,7 @@
                         <div class="col-lg-6">
                             <!--=== Footer Text ===-->
                             <div class="footer-text">
-                                <p>Copy@2023 <span style="color: #F7921E;">GoWilds</span>, All Right Reserved</p>
+                                <p>Copy@2023 <span style="color: #F7921E;">itravel</span>, All Right Reserved</p>
                             </div>
                         </div>
                         <div class="col-lg-6">
