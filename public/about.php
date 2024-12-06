@@ -64,7 +64,7 @@
                         <div class="page-banner-content text-center text-white">
                             <h1 class="page-title">About Us</h1>
                             <ul class="breadcrumb-link text-white">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index">Home</a></li>
                                 <li class="active">About Us</li>
                             </ul>
                         </div>
@@ -82,13 +82,11 @@
                             <!--=== Section Title ===-->
                             <div class="section-title mb-30">
                                 <span class="sub-title">Availability</span>
-                                <h2>Explore GoWilds
+                                <h2>Explore iTravel's
                                     Real Adventure
                                     & Travels</h2>
                             </div>
-                            <p class="mb-30">Sit amet consectetur integer tincidunt sceleries noda
-                                lesry volutpat neque fermentum malesuada scelequecy
-                                leocras odio blandit rhoncus eues feugiat</p>
+                            <p class="mb-30">Experience the thrill of discovery with iTravel. From serene escapes to adrenaline-filled expeditions, our curated adventures are designed for every traveler’s dream.</p>
                             <a href="#" class="main-btn filled-btn">Learn More<i class="far fa-paper-plane"></i></a>
                         </div>
                     </div>
@@ -103,9 +101,9 @@
                                         </div>
                                         <div class="text">
                                             <h3 class="title">Tent Camping</h3>
-                                            <p>Sit amet consectetur integ
-                                                tincidunt scelerie nodermen
-                                                malesuada sceleris massa</p>
+                                            <p>Revel in the serenity of nature with our 
+                                                premium tent camping spots, perfect for
+                                                 stargazing and relaxation.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -116,10 +114,10 @@
                                             <i class="flaticon-biking-mountain"></i>
                                         </div>
                                         <div class="text">
-                                            <h3 class="title">Mountain Biking</h3>
-                                            <p>Sit amet consectetur integ
-                                                tincidunt scelerie nodermen
-                                                malesuada sceleris massa</p>
+                                            <h3 class="title">Water Rafting</h3>
+                                            <p>Feel the rush of adrenaline as you navigate
+                                                 exciting rapids on unforgettable water
+                                                  rafting adventures.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -130,10 +128,9 @@
                                             <i class="flaticon-fishing-2"></i>
                                         </div>
                                         <div class="text">
-                                            <h3 class="title">Fishing & Boat</h3>
-                                            <p>Sit amet consectetur integ
-                                                tincidunt scelerie nodermen
-                                                malesuada sceleris massa</p>
+                                            <h3 class="title">Hiking Trails</h3>
+                                            <p>Discover breathtaking views and challenging
+                                                 trails, guided by our experienced hiking experts.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -144,10 +141,9 @@
                                             <i class="flaticon-caravan"></i>
                                         </div>
                                         <div class="text">
-                                            <h3 class="title">RV Caravan Tent</h3>
-                                            <p>Sit amet consectetur integ
-                                                tincidunt scelerie nodermen
-                                                malesuada sceleris massa</p>
+                                            <h3 class="title">Expert Guides</h3>
+                                            <p>Our expert guides will lead you on unforgettable adventures,
+                                                 ensuring safety and enriching experiences.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -175,9 +171,9 @@
                                 <h2>Great Opportunity For
                                     Adventure & Travels</h2>
                             </div>
-                            <p class="wow fadeInDown">Set perspiciatis unde omnis iste natus error voluptatem accusantium 
-                                doloremue laudantium totam rem aperiam eaque quae abillo inventore
-                                veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                            <p class="wow fadeInDown">Explore the natural beauty, vibrant culture, and thrilling
+                                 adventures that Sri Lanka has to offer. iTravel is here to create unforgettable
+                                  journeys for travelers seeking the best of this tropical paradise.</p>
                             <div class="skill-wrapper wow fadeInUp">
                                 <div class="single-skill-circle text-center">
                                     <div class="inner-circle">
