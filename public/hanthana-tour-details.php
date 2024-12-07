@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zxx">
     <head>
         <!--====== Required meta tags ======-->
@@ -76,9 +76,9 @@
             <div class="container">
                 <div class="destination-details-wrapper">
                     <div class="destination-info wow fadeInUp">
-                        <h3 class="title">Floating Villa On Beach</h3>
+                        <h3 class="title">Travel to Hanthana</h3>
                         <div class="meta">
-                            <span class="location"><i class="fas fa-map-marker-alt"></i>Gaafu Dhaalu Atoll, Maldives</span>
+                            <span class="location"><i class="fas fa-map-marker-alt"></i>Hanthana, Kandy, Sri Lanka</span>
                             <ul class="ratings">
                                 <li><i class="fas fa-star"></i></li>
                                 <li><i class="fas fa-star"></i></li>
@@ -88,7 +88,10 @@
                                 <li><a href="#">(4.9)</a></li>
                             </ul>
                         </div>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam nisut aliquid exea commodi consequatur</p>
+                        <p>The Hanthana Mountain Range, located in the hill capital of Kandy, Sri Lanka, is a haven for nature enthusiasts and adventurers alike. 
+                    Known for its scenic beauty, lush greenery, and misty peaks, it offers breathtaking views and an ideal getaway for trekking, camping, and birdwatching. 
+                    The tranquility and natural charm make it a must-visit destination for those seeking serenity amidst the hills. The range also provides a panoramic view of the 
+                    surrounding tea plantations and the city of Kandy below.</p>
                         <div class="row">
                             <div class="col-lg-6">
                                 <img src="assets/images/place/des-single-1.jpg" class="rounded mb-40" alt="Features Image">
@@ -97,9 +100,10 @@
                                 <img src="assets/images/place/des-single-2.jpg" class="rounded mb-40" alt="Features Image">
                             </div>
                         </div>
-                        <h3>Why Choose Maldives</h3>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms pleasure 
-                            of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue and equal blame belongs those who fail their duty through weakness of will which the same saying through shrinking from toil and pain.</p>
+                        <h3>Why Visit Hanthana</h3>
+                        <p>Hanthana offers a unique combination of adventure and relaxation. From challenging treks through winding paths to serene spots perfect for meditation, 
+                    this destination caters to every type of traveler. It's an excellent location for photographers and nature lovers who want to capture the essence of Sri Lanka's 
+                    picturesque landscapes. Moreover, its proximity to Kandy city makes it easily accessible while still maintaining its untouched beauty.</p>
                         <ul class="features-list mb-40">
                             <li><span><i class="fas fa-badge-check"></i>Family Camping</span></li>
                             <li><span><i class="fas fa-badge-check"></i>Wild Camping</span></li>
@@ -115,7 +119,7 @@
                             <!--=== Single Gallery Item ===-->
                             <div class="single-gallery-item mb-30">
                                 <div class="gallery-img">
-                                    <img src="assets/images/place/hotel-1.jpg" alt="Gallery Image">
+                                    <img src="assets/images/place/hanthana-1.jpg" alt="Gallery Image">
                                     <div class="hover-overlay">
                                         <a href="assets/images/gallery/gallery-1.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                                     </div>
@@ -124,7 +128,7 @@
                             <!--=== Single Gallery Item ===-->
                             <div class="single-gallery-item mb-30">
                                 <div class="gallery-img">
-                                    <img src="assets/images/place/hotel-3.jpg" alt="Gallery Image">
+                                    <img src="assets/images/place/hanthana-3.jpg" alt="Gallery Image">
                                     <div class="hover-overlay">
                                         <a href="assets/images/gallery/gallery-2.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                                     </div>
@@ -133,7 +137,7 @@
                             <!--=== Single Gallery Item ===-->
                             <div class="single-gallery-item mb-30">
                                 <div class="gallery-img">
-                                    <img src="assets/images/place/hotel-2.jpg" alt="Gallery Image">
+                                    <img src="assets/images/place/hanthana-2.jpg" alt="Gallery Image">
                                     <div class="hover-overlay">
                                         <a href="assets/images/gallery/gallery-3.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                                     </div>
