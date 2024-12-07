@@ -94,17 +94,17 @@
                                     <li><a href="index-4.html">Home 04</a></li>
                                 </ul> -->
                             </li>
-                            <li class="menu-item has-children"><a href="tour">Tours</a>
+                            <li class="menu-item has-children"><a href="tour">Tour Packages</a>
                                 <!-- <ul class="sub-menu">
                                     <li><a href="tour.html">Tours</a></li>
                                     <li><a href="tour-details.html">Tours Details</a></li>
                                 </ul> -->
                             </li>
-                            <li class="menu-item has-children"><a href="#">Destination</a>
-                                <ul class="sub-menu">
+                            <li class="menu-item has-children"><a href="district">Explore by District</a>
+                                <!-- <ul class="sub-menu">
                                     <li><a href="destination.html">Destination</a></li>
                                     <li><a href="destination-details.html">Destination Details</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="menu-item has-children"><a href="gallery">Our Gallery</a>
                                 <!-- <ul class="sub-menu">
