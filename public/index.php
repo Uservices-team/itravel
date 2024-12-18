@@ -97,7 +97,7 @@
                                             <li><a href="tour-details">Tours Details</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="menu-item has-children"><a href="#">Destination</a>
+                                    <li class="menu-item has-children"><a href="district">Explore By District</a>
                                         <!-- <ul class="sub-menu">
                                             <li><a href="destination">Destination</a></li>
                                             <li><a href="destination-details">Destination Details</a></li>
@@ -159,9 +159,7 @@
                                 <div class="col-xl-6">
                                     <!--=== Hero Content ===-->
                                     <div class="hero-content text-white">
-                                        <h1 data-animation="fadeInDown" data-delay=".4s">Travel &
-                                            Adventure
-                                            Camping</h1>
+                                        <h1 data-animation="fadeInDown" data-delay=".4s">Ruwanweli Maha Seya Pilgrimage</h1>
                                         <div class="text-button d-flex align-items-center">
                                             <p data-animation="fadeInLeft" data-delay=".5s">Nunc et dui nullam aliquam eget
                                                 velit. Consectetur nulla convallis
@@ -188,9 +186,7 @@
                                 <div class="col-xl-6">
                                     <!--=== Hero Content ===-->
                                     <div class="hero-content text-white">
-                                        <h1 data-animation="fadeInDown" data-delay=".4s">Travel &
-                                            Adventure
-                                            Tour</h1>
+                                        <h1 data-animation="fadeInDown" data-delay=".4s">Hanthana Trip</h1>
                                         <div class="text-button d-flex align-items-center">
                                             <p data-animation="fadeInLeft" data-delay=".5s">Nunc et dui nullam aliquam eget
                                                 velit. Consectetur nulla convallis
@@ -235,54 +231,66 @@
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-1.jpg" alt="Features Image">
+                            <img src="assets/images/place/gampaha.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Tent Camping
-                                        Services</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Gampaha</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
                             </div>
                         </div>
                     </div>
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-2.jpg" alt="Features Image">
+                            <img src="assets/images/place/badulla.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Trailers and RV Spots</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Badulla</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
                             </div>
                         </div>
                     </div>
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-3.jpg" alt="Features Image">
+                            <img src="assets/images/place/colombo.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Adventure and Climbing</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Colombo</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
                             </div>
                         </div>
                     </div>
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-4.jpg" alt="Features Image">
+                            <img src="assets/images/place/kandy.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Couple Camping
-                                        or Cabin</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Kandy</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Features Image Item ===-->
+                    <div class="single-features-item mb-40">
+                        <div class="img-holder">
+                            <img src="assets/images/place/matara.jpg" alt="Features Image">
+                            <div class="content">
+                                <div class="text">
+                                    <h4 class="title">Matara</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Features Image Item ===-->
+                    <div class="single-features-item mb-40">
+                        <div class="img-holder">
+                            <img src="assets/images/place/Nuwara-Eliya.jpg" alt="Features Image">
+                            <div class="content">
+                                <div class="text">
+                                    <h4 class="title">Nuwara-Eliya</h4>
+                                </div>
                             </div>
                         </div>
                     </div>
