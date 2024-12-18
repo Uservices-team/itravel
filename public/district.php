@@ -11,7 +11,7 @@
         <!--====== Favicon Icon ======-->
         <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
         <!--====== Google Fonts ======-->
-        <link href="../../../css2?family=Prompt:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+        <!-- <link href="../../../css2?family=Prompt:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"> -->
         <!--====== Flaticon css ======-->
         <link rel="stylesheet" href="assets/fonts/flaticon/flaticon_gowilds.css">
         <!--====== FontAwesome css ======-->
@@ -156,32 +156,6 @@
                 margin: 0 0 30px 0;
             }
             }
-        .filter-section {
-    background-color: #f7f7f7;
-    padding: 30px 0;
-    margin-bottom: 30px;
-}
-
-.filter-section .form-control {
-    padding: 10px;
-    font-size: 14px;
-}
-
-.filter-section .btn-primary {
-    background-color: #ff4969;
-    border-color: #ff4969;
-    padding: 10px 20px;
-}
-
-.filter-section .btn-primary:hover {
-    background-color: #e93e55;
-    border-color: #e93e55;
-}
-
-.filter-section label {
-    font-weight: bold;
-}
-
         </style>
     </head>
     <body>
@@ -261,45 +235,28 @@
                 </div>
             </div>
         </section><!--====== End Booking Section ======-->
+        <!-- Filter Section -->
         <section class="filter-section pt--30 pb--30">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <form class="filter-form">
                     <div class="row">
-                        <!-- Select District -->
-                        <div class="col-md-12">
-                            <label for="district" class="form-label">Select District</label>
-                        </div>
-                        <div class="col-md-12">
-                            <select id="district" class="form-control" name="district">
-                                <option value="colombo">Colombo</option>
-                                <option value="kandy">Kandy</option>
-                                <option value="galle">Galle</option>
-                                <option value="negombo">Negombo</option>
-                                <!-- Add more districts as necessary -->
-                            </select>
-                            </div>
-                        </div>
-
                         <!-- Select Category -->
                         <div class="col-md-12 mb-3">
-                        <div class="col-md-12">
                             <label for="category" class="form-label">Select Category</label>
-</div>
-<div class="col-md-12">
                             <select id="category" class="form-control" name="category">
+                                <option value="">All Categories</option>
                                 <option value="adventure">Adventure</option>
                                 <option value="cultural">Cultural</option>
                                 <option value="wildlife">Wildlife</option>
                                 <option value="beach">Beach</option>
-                                <!-- Add more categories as necessary -->
-                            </select></div>
+                            </select>
                         </div>
 
                         <!-- Filter Button -->
                         <div class="col-md-12">
-                            <button type="submit" class="btn btn-primary mt-4">Filter</button>
+                            <button type="button" id="filterButton" class="btn btn-primary">Apply Filter</button>
                         </div>
                     </div>
                 </form>
@@ -307,12 +264,14 @@
         </div>
     </div>
 </section>
-
+<section id="filteredItems">
+    <!-- Your filtered items will be displayed here -->
+</section>
          <!--portfolio-area start-->
     <section class="portfolio-area style-3 pt--110 pb--90 pt--md--60 pb--md-30 pt_xs--60 pb_xs--30">
         <div class="container">
             <div class="grid row align-items-center">
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/ampara.jpg" alt="business-i img">
@@ -329,7 +288,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat3">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cultural">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/anuradhapura.jpg" alt="I care img">
@@ -346,7 +305,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat1">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/badulla.jpg" alt="I travel img">
@@ -363,7 +322,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/batticaloa.jpeg" alt="I studio img">
@@ -380,7 +339,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/colombo.jpg" alt="business-i img">
@@ -397,7 +356,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat3">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/galle.jpg" alt="I care img">
@@ -414,7 +373,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat1">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/gampaha.jpg" alt="I travel img">
@@ -431,7 +390,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/place-8.jpg" alt="I studio img">
@@ -448,7 +407,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/jaffna.jpg" alt="I studio img">
@@ -465,7 +424,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/kalutara.jpg" alt="I studio img">
@@ -482,7 +441,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cultural">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/kandy.jpg" alt="I studio img">
@@ -499,7 +458,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/kilinochchi.jpg" alt="I studio img">
@@ -516,7 +475,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/kurunegala.jpg" alt="I studio img">
@@ -533,7 +492,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/mannar.jpg" alt="I studio img">
@@ -550,7 +509,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cultural">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/matale.jpg" alt="I studio img">
@@ -567,7 +526,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/matara.jpg" alt="I studio img">
@@ -584,7 +543,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/monaragala.jpg" alt="I studio img">
@@ -601,7 +560,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/nuwara-eliya.jpg" alt="I studio img">
@@ -618,7 +577,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cultural">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/polonnaruwa.jpg" alt="I studio img">
@@ -635,7 +594,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/puththalam.jpg" alt="I studio img">
@@ -652,7 +611,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cultural">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/rathnapura.jpg" alt="I studio img">
@@ -669,7 +628,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item Beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/trinco.png" alt="I studio img">
@@ -686,7 +645,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item Beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/vavuniya.jpg" alt="I studio img">
@@ -703,7 +662,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item beach">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/kalmunai.jpg" alt="I studio img">
@@ -720,7 +679,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item adventure">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
                             <img src="assets/images/place/mullaitivu.jpg" alt="I studio img">
@@ -740,6 +699,39 @@
             </div>
         </div>
     </section>
+    <script>
+    // JavaScript to handle the filter action
+    document.getElementById('filterButton').addEventListener('click', function() {
+        // Get the selected category value
+        var selectedCategory = document.getElementById('category').value;
+        
+        console.log("Selected category:", selectedCategory); // Check what category is selected
+
+        // Filter the items based on the selected category
+        filterItems(selectedCategory);
+    });
+
+    // Function to filter items
+    // Function to filter items
+function filterItems(category) {
+    var items = document.querySelectorAll('.grid-item'); // Select all the items to filter
+
+    // Loop through the items and filter them based on the selected category
+    items.forEach(function(item) {
+        // Check if the item's class includes the selected category class
+        if (category === "" || item.classList.contains(category)) {
+            // If no category is selected or if the item's category matches, show the item
+            item.style.display = 'block'; // Make sure the item is visible
+        } else {
+            // If the category does not match, hide the item
+            item.style.display = 'none';
+        }
+    });
+}
+</script>
+
+
+    
     <!--portfolio-area end-->
         <!--====== Start Gallery Section ======-->
         <section class="gallery-section mbm-150">
@@ -779,7 +771,7 @@
                             <div class="hover-overlay">
                                 <a href="assets/images/gallery/gl-4.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
-                        </div>
+                           </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
