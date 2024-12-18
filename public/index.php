@@ -97,7 +97,7 @@
                                             <li><a href="tour-details">Tours Details</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="menu-item has-children"><a href="#">Destination</a>
+                                    <li class="menu-item has-children"><a href="district">Explore By District</a>
                                         <!-- <ul class="sub-menu">
                                             <li><a href="destination">Destination</a></li>
                                             <li><a href="destination-details">Destination Details</a></li>
@@ -159,9 +159,7 @@
                                 <div class="col-xl-6">
                                     <!--=== Hero Content ===-->
                                     <div class="hero-content text-white">
-                                        <h1 data-animation="fadeInDown" data-delay=".4s">Travel &
-                                            Adventure
-                                            Camping</h1>
+                                        <h1 data-animation="fadeInDown" data-delay=".4s">Ruwanweli Maha Seya Pilgrimage</h1>
                                         <div class="text-button d-flex align-items-center">
                                             <p data-animation="fadeInLeft" data-delay=".5s">Nunc et dui nullam aliquam eget
                                                 velit. Consectetur nulla convallis
@@ -188,9 +186,7 @@
                                 <div class="col-xl-6">
                                     <!--=== Hero Content ===-->
                                     <div class="hero-content text-white">
-                                        <h1 data-animation="fadeInDown" data-delay=".4s">Travel &
-                                            Adventure
-                                            Tour</h1>
+                                        <h1 data-animation="fadeInDown" data-delay=".4s">Hanthana Trip</h1>
                                         <div class="text-button d-flex align-items-center">
                                             <p data-animation="fadeInLeft" data-delay=".5s">Nunc et dui nullam aliquam eget
                                                 velit. Consectetur nulla convallis
@@ -235,54 +231,66 @@
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-1.jpg" alt="Features Image">
+                            <img src="assets/images/place/gampaha.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Tent Camping
-                                        Services</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Gampaha</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
                             </div>
                         </div>
                     </div>
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-2.jpg" alt="Features Image">
+                            <img src="assets/images/place/badulla.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Trailers and RV Spots</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Badulla</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
                             </div>
                         </div>
                     </div>
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-3.jpg" alt="Features Image">
+                            <img src="assets/images/place/colombo.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Adventure and Climbing</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Colombo</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
                             </div>
                         </div>
                     </div>
                     <!--=== Features Image Item ===-->
                     <div class="single-features-item mb-40">
                         <div class="img-holder">
-                            <img src="assets/images/features/feat-4.jpg" alt="Features Image">
+                            <img src="assets/images/place/kandy.jpg" alt="Features Image">
                             <div class="content">
                                 <div class="text">
-                                    <h4 class="title">Couple Camping
-                                        or Cabin</h4>
-                                    <a href="#" class="icon-btn"><i class="far fa-arrow-right"></i></a>
+                                    <h4 class="title">Kandy</h4>
                                 </div>
-                                <p>Set unde omnis estenatus voluptatem aperiae.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Features Image Item ===-->
+                    <div class="single-features-item mb-40">
+                        <div class="img-holder">
+                            <img src="assets/images/place/matara.jpg" alt="Features Image">
+                            <div class="content">
+                                <div class="text">
+                                    <h4 class="title">Matara</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Features Image Item ===-->
+                    <div class="single-features-item mb-40">
+                        <div class="img-holder">
+                            <img src="assets/images/place/Nuwara-Eliya.jpg" alt="Features Image">
+                            <div class="content">
+                                <div class="text">
+                                    <h4 class="title">Nuwara-Eliya</h4>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -820,29 +828,29 @@
             </div>
         </section><!--====== End Fact Section ======-->
         <!--====== Start Testimonial Section ======-->
-        <section class="testimonial-section pt-60">
+        <!-- <section class="testimonial-section pt-60">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-xl-8">
+                    <div class="col-xl-8"> -->
                         <!--=== Section Title ===-->
-                        <div class="section-title text-center mb-50 wow fadeInDown">
+                        <!-- <div class="section-title text-center mb-50 wow fadeInDown">
                             <span class="sub-title">Testimonials</span>
                             <h2>What Our Traveler Say About Our Tour Services</h2>
                         </div>
                     </div>
                 </div>
                 <div class="row align-items-xl-center">
-                    <div class="col-xl-5 col-lg-12 order-2 order-xl-1">
+                    <div class="col-xl-5 col-lg-12 order-2 order-xl-1"> -->
                         <!--=== Testimonial Image ===-->
-                        <div class="testimonial-one_image-box mb-40 wow fadeInLeft">
+                        <!-- <div class="testimonial-one_image-box mb-40 wow fadeInLeft">
                             <img src="assets/images/testimonial/testimonial-1.jpg" alt="Testimonial Image">
                         </div>
                     </div>
-                    <div class="col-xl-7 col-lg-12 order-1 order-xl-2">
+                    <div class="col-xl-7 col-lg-12 order-1 order-xl-2"> -->
                         <!--=== Testimonial Slider ===-->
-                        <div class="testimonial-slider-one pl-lg-55 mb-40 wow fadeInRight">
+                        <!-- <div class="testimonial-slider-one pl-lg-55 mb-40 wow fadeInRight"> -->
                             <!--=== Testimonial Item ===-->
-                            <div class="gw-testimonial-item">
+                            <!-- <div class="gw-testimonial-item">
                                 <div class="testimonial-inner-content">
                                     <div class="quote-rating-box">
                                         <div class="icon">
@@ -874,9 +882,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--=== Testimonial Item ===-->
-                            <div class="gw-testimonial-item">
+                            <!-- <div class="gw-testimonial-item">
                                 <div class="testimonial-inner-content">
                                     <div class="quote-rating-box">
                                         <div class="icon">
@@ -908,9 +916,9 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--=== Testimonial Item ===-->
-                            <div class="gw-testimonial-item">
+                            <!-- <div class="gw-testimonial-item">
                                 <div class="testimonial-inner-content">
                                     <div class="quote-rating-box">
                                         <div class="icon">
@@ -947,14 +955,14 @@
                     </div>
                 </div>
             </div>
-        </section><!--====== End Testimonial Section ======-->
+        </section>====== End Testimonial Section ====== -->
         <!--====== Start Blog Section ======-->
-        <section class="blog-section pt-60 pb-60">
+        <!-- <section class="blog-section pt-60 pb-60">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-xl-6">
+                    <div class="col-xl-6"> -->
                         <!--=== Section Title ===-->
-                        <div class="section-title text-center mb-45 wow fadeInDown">
+                        <!-- <div class="section-title text-center mb-45 wow fadeInDown">
                             <span class="sub-title">News & Blog</span>
                             <h2>Amazing News & Blog For
                                 Every Single Update</h2>
@@ -962,9 +970,9 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12"> -->
                         <!--=== Single Blog Post ===-->
-                        <div class="single-blog-post mb-40 wow fadeInUp">
+                        <!-- <div class="single-blog-post mb-40 wow fadeInUp">
                             <div class="post-thumbnail">
                                 <img src="assets/images/blog/blog-1.jpg" alt="Post Image">
                             </div>
@@ -979,9 +987,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12"> -->
                         <!--=== Single Blog Post ===-->
-                        <div class="single-blog-post mb-40 wow fadeInUp">
+                        <!-- <div class="single-blog-post mb-40 wow fadeInUp">
                             <div class="post-thumbnail">
                                 <img src="assets/images/blog/blog-2.jpg" alt="Post Image">
                             </div>
@@ -996,9 +1004,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12"> -->
                         <!--=== Single Blog Post ===-->
-                        <div class="single-blog-post mb-40 wow fadeInUp">
+                        <!-- <div class="single-blog-post mb-40 wow fadeInUp">
                             <div class="post-thumbnail">
                                 <img src="assets/images/blog/blog-3.jpg" alt="Post Image">
                             </div>
@@ -1015,7 +1023,7 @@
                     </div>
                 </div>
             </div>
-        </section><!--====== End Blog Section ======-->
+        </section>====== End Blog Section ====== -->
         <!--====== Start Gallery Section ======-->
         <section class="gallery-section mbm-150">
             <div class="container-fluid">
@@ -1023,54 +1031,54 @@
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gl-1.jpg" alt="Gallery Image">
+                            <img src="assets/images/gallery/IMG_2140.png" alt="Gallery Image">
                             <div class="hover-overlay">
-                                <a href="assets/images/gallery/gl-1.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                <a href="assets/images/gallery/IMG_2140.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gl-2.jpg" alt="Gallery Image">
+                            <img src="assets/images/gallery/IMG_2141.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
-                                <a href="assets/images/gallery/gl-2.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                <a href="assets/images/gallery/IMG_2141.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gl-3.jpg" alt="Gallery Image">
+                            <img src="assets/images/gallery/IMG_2142.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
-                                <a href="assets/images/gallery/gl-3.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                <a href="assets/images/gallery/IMG_2142.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gl-4.jpg" alt="Gallery Image">
+                            <img src="assets/images/gallery/IMG_2143.png" alt="Gallery Image">
                             <div class="hover-overlay">
-                                <a href="assets/images/gallery/gl-4.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                <a href="assets/images/gallery/IMG_2143.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gl-5.jpg" alt="Gallery Image">
+                            <img src="assets/images/gallery/IMG_2144.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
-                                <a href="assets/images/gallery/gl-5.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                <a href="assets/images/gallery/IMG_2144.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-">
                         <div class="gallery-imgitem">
-                            <img src="assets/images/gallery/gl-3.jpg" alt="Gallery Image">
+                            <img src="assets/images/gallery/IMG_2145.png" alt="Gallery Image">
                             <div class="hover-overlay">
-                                <a href="assets/images/gallery/gl-3.jpg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                <a href="assets/images/gallery/IMG_2145.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
                         </div>
                     </div>
