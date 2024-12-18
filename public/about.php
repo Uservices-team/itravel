@@ -187,8 +187,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Safety First Always</h4>
-                                    <p>Set perspiciatis unde omnis estenatus voluptatem
-                                        accusantium laudantium totarem aperiae</p>
+
                                 </div>
                             </div>
                             <div class="single-features-list mb-40">
@@ -202,8 +201,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Low Price & Friendly</h4>
-                                    <p>Quis autem vel eum iure reprehenderit voluptate velit esse nihile molestiae
-                                        consequatur.</p>
+
                                 </div>
                             </div>
                             <div class="single-features-list mb-40">
@@ -217,8 +215,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>Trusted Travel Guide</h4>
-                                    <p>At vero accusamus dignissimos ducimus blanditiis
-                                        praesentium voluptatum deleniti atque quos</p>
+
                                 </div>
                             </div>
                         </div>
