@@ -114,7 +114,7 @@
         <section class="places-section pb-100">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-xl-6 col-md-6 col-sm-12 places-column">
+                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
                         <!--=== Single Place Item ===-->
                         <div class="single-place-item mb-60 wow fadeInUp">
                             <div class="place-img">
@@ -130,19 +130,19 @@
                                         <li><i class="fas fa-star"></i></li>
                                         <li><a href="#">(4.9)</a></li>
                                     </ul>
-                                    <h4 class="title"><a href="tour-details.html">Travel to Hanthana</a></h4>
+                                    <h4 class="title"><a href="hanthana-tour-details">Travel to Hanthana</a></h4>
                                     <p class="location"><i class="far fa-map-marker-alt"></i>Hanthana, Sri Lanka</p>
                                     <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
                                     <div class="meta">
                                         <span><i class="far fa-clock"></i>05 Days</span>
                                         <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
+                                        <span><a href="tour-details">Details<i class="far fa-long-arrow-right"></i></a></span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-md-6 col-sm-12 places-column">
+                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
                         <!--=== Single Place Item ===-->
                         <div class="single-place-item mb-60 wow fadeInUp">
                             <div class="place-img">
@@ -158,13 +158,125 @@
                                         <li><i class="fas fa-star"></i></li>
                                         <li><a href="#">(4.9)</a></li>
                                     </ul>
-                                    <h4 class="title"><a href="tour-details.html">Travel to Kitulgala</a></h4>
+                                    <h4 class="title"><a href="tour-details">Travel to Kitulgala</a></h4>
                                     <p class="location"><i class="far fa-map-marker-alt"></i>Kitulgala, Sri Lanka</p>
                                     <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
                                     <div class="meta">
                                         <span><i class="far fa-clock"></i>05 Days</span>
                                         <span><i class="far fa-user"></i>25</span>
-                                        <span><a href="tour-details.html">Details<i class="far fa-long-arrow-right"></i></a></span>
+                                        <span><a href="tour-details">Details<i class="far fa-long-arrow-right"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
+                        <!--=== Single Place Item ===-->
+                        <div class="single-place-item mb-60 wow fadeInUp">
+                            <div class="place-img">
+                                <img src="assets/images/place/sigiriya.jpg" alt="Place Image">
+                            </div>
+                            <div class="place-content">
+                                <div class="info">
+                                    <ul class="ratings">
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><a href="#">(4.9)</a></li>
+                                    </ul>
+                                    <h4 class="title"><a href="tour-details">Travel to Sigiriya</a></h4>
+                                    <p class="location"><i class="far fa-map-marker-alt"></i>Kitulgala, Sri Lanka</p>
+                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
+                                    <div class="meta">
+                                        <span><i class="far fa-clock"></i>05 Days</span>
+                                        <span><i class="far fa-user"></i>25</span>
+                                        <span><a href="tour-details">Details<i class="far fa-long-arrow-right"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
+                        <!--=== Single Place Item ===-->
+                        <div class="single-place-item mb-60 wow fadeInUp">
+                            <div class="place-img">
+                                <img src="assets/images/place/IMG_2138.jpg" alt="Place Image">
+                            </div>
+                            <div class="place-content">
+                                <div class="info">
+                                    <ul class="ratings">
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><a href="#">(4.9)</a></li>
+                                    </ul>
+                                    <h4 class="title"><a href="tour-details">Travel to Kitulgala</a></h4>
+                                    <p class="location"><i class="far fa-map-marker-alt"></i>Kitulgala, Sri Lanka</p>
+                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
+                                    <div class="meta">
+                                        <span><i class="far fa-clock"></i>05 Days</span>
+                                        <span><i class="far fa-user"></i>25</span>
+                                        <span><a href="tour-details">Details<i class="far fa-long-arrow-right"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
+                        <!--=== Single Place Item ===-->
+                        <div class="single-place-item mb-60 wow fadeInUp">
+                            <div class="place-img">
+                                <img src="assets/images/place/IMG_2138.jpg" alt="Place Image">
+                            </div>
+                            <div class="place-content">
+                                <div class="info">
+                                    <ul class="ratings">
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><a href="#">(4.9)</a></li>
+                                    </ul>
+                                    <h4 class="title"><a href="tour-details">Travel to Kitulgala</a></h4>
+                                    <p class="location"><i class="far fa-map-marker-alt"></i>Kitulgala, Sri Lanka</p>
+                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
+                                    <div class="meta">
+                                        <span><i class="far fa-clock"></i>05 Days</span>
+                                        <span><i class="far fa-user"></i>25</span>
+                                        <span><a href="tour-details">Details<i class="far fa-long-arrow-right"></i></a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 col-sm-12 places-column">
+                        <!--=== Single Place Item ===-->
+                        <div class="single-place-item mb-60 wow fadeInUp">
+                            <div class="place-img">
+                                <img src="assets/images/place/IMG_2138.jpg" alt="Place Image">
+                            </div>
+                            <div class="place-content">
+                                <div class="info">
+                                    <ul class="ratings">
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><a href="#">(4.9)</a></li>
+                                    </ul>
+                                    <h4 class="title"><a href="tour-details">Travel to Kitulgala</a></h4>
+                                    <p class="location"><i class="far fa-map-marker-alt"></i>Kitulgala, Sri Lanka</p>
+                                    <p class="price"><i class="fas fa-usd-circle"></i>Price<span class="currency">$</span>93.65</p>
+                                    <div class="meta">
+                                        <span><i class="far fa-clock"></i>05 Days</span>
+                                        <span><i class="far fa-user"></i>25</span>
+                                        <span><a href="tour-details">Details<i class="far fa-long-arrow-right"></i></a></span>
                                     </div>
                                 </div>
                             </div>
