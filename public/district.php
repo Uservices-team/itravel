@@ -315,7 +315,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-1.jpg" alt="business-i img">
+                            <img src="assets/images/place/ampara.jpg" alt="business-i img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -332,7 +332,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat3">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-2.jpg" alt="I care img">
+                            <img src="assets/images/place/anuradhapura.jpg" alt="I care img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -349,7 +349,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat1">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-3.jpg" alt="I travel img">
+                            <img src="assets/images/place/badulla.jpg" alt="I travel img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -366,7 +366,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-4.jpg" alt="I studio img">
+                            <img src="assets/images/place/batticaloa.jpeg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -383,7 +383,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-5.jpg" alt="business-i img">
+                            <img src="assets/images/place/colombo.jpg" alt="business-i img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -400,7 +400,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat3">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-6.jpg" alt="I care img">
+                            <img src="assets/images/place/galle.jpg" alt="I care img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -417,7 +417,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat1">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/place-7.jpg" alt="I travel img">
+                            <img src="assets/images/place/gampaha.jpg" alt="I travel img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -451,7 +451,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/jaffna.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -468,7 +468,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/kalutara.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -485,7 +485,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/kandy.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -502,7 +502,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/kilinochchi.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -519,7 +519,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/kurunegala.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -536,7 +536,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/mannar.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
                             </div>
@@ -553,7 +553,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
                     <div class="portfolio-wrapper2 mb-30">
                         <div class="img-fluid">
-                            <img src="assets/images/place/hanthana-1.jpg" alt="I studio img">
+                            <img src="assets/images/place/matale.jpg" alt="I studio img">
                             <div class="portfolio-content">
                                 <a class="fw-bold text-white" href="destination-details">Explore Tours </a>
                             </div>
@@ -562,6 +562,176 @@
                             <div class="text">
                                 <div class="p-title">
                                     <a href="https://www.youtube.com/@THEITUBE">Matale</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/matara.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Matara</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/monaragala.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Moneragala</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/nuwara-eliya.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Nuwara Eliya</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/polonnaruwa.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Polonnaruwa</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/puththalam.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Puttalam</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/rathnapura.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Rathnapura</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/trinco.png" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Trincomalee</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/vavuniya.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Vavuniya</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/kalmunai.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Kalmunai</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 grid-item cat2">
+                    <div class="portfolio-wrapper2 mb-30">
+                        <div class="img-fluid">
+                            <img src="assets/images/place/mullaitivu.jpg" alt="I studio img">
+                            <div class="portfolio-content">
+                                <a class="fw-bold text-white" href="destination-details">Explore Tours</a>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <div class="text">
+                                <div class="p-title">
+                                    <a href="https://www.youtube.com/@THEITUBE">Mullaithivu</a>
                                 </div>
                             </div>
                         </div>
